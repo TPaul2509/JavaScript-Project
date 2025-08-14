@@ -67,8 +67,8 @@ calcBtn.addEventListener("click", gradeConverterFunction);
 ```
 <br>
 CSS Code
-```
-*{
+<br>
+```*{
     margin: 0;
     padding: none;
 }
@@ -185,5 +185,4 @@ input{
     background-color: #d99031;
    
 }
-
 ```
