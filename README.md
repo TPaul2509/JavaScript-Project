@@ -3,6 +3,7 @@ My first JS project: Grade Calculator
 <br>
 Author: Tamasa Paul
 <br>
+```
 console.log("This is a grade converter app");
 const resetBtn = document.querySelector("#Reset");
 const calcBtn = document.querySelector("#Calculator");
@@ -62,3 +63,4 @@ calcBtn.addEventListener("click", gradeConverterFunction);
     }
     console.log("Grade converted successfully");
 };
+```
